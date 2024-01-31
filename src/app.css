@@ -12,3 +12,21 @@
 	font-size: calc(10px + 2vmin);
 	color: white;
 }
+
+h1 {
+	padding-top: 20px;
+}
+
+.header {
+	font-size: 24px;
+}
+
+.row {
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+}
+
+.form-button {
+	padding: 20px;
+}
